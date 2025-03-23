@@ -14,7 +14,11 @@ Azure AI Document Intelligence is a service that uses advanced machine learning 
 Key features include:
 
 Prebuilt and Custom Models: Start with prebuilt models or create custom models tailored to your documents.
+
 Flexible Deployment: Deploy in the cloud, on-premises, or at the edge with container support.
+
 Simple Text Extraction: Easily extract and organize information without manual labeling.
+
 Security: Enterprise-grade security and privacy for your data and trained models.
+
 This service is designed to streamline document processing workflows, making data-driven decisions easier and more efficient.
